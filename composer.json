@@ -1,0 +1,16 @@
+{
+  "name": "composer/bug",
+  "authors": [
+    {
+      "name": "Calvin Alkan",
+      "email": "calvin@snicco.de"
+    }
+  ],
+  "require": {
+    "php": "^7.4|^8.0",
+    "laminas/laminas-httphandlerrunner": "2.1.0"
+  },
+  "require-dev": {
+    "snicco/testing-bundle": "v1.2.1"
+  }
+}
